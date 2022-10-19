@@ -1,0 +1,22 @@
+.questao {
+    width: 100%;
+    max-height: 100vh;
+    margin: 0px 40px;
+    padding: 10px 10px;
+    background-color: #8a2be2;
+}
+
+.status {
+    margin: 5px 0px;
+}
+
+.quest-title {
+    padding: 0px 10px;
+    font-size: 30px;
+    margin: 15px 0px;
+}
+
+.options-container {
+    background-color: #8a2be2;
+    text-align: center;
+}

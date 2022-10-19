@@ -1,0 +1,12 @@
+.frase {
+    background-color: rgb(168, 93, 237);
+    border: 1px solid #000;
+    margin-top: 3px;
+    margin-bottom: 7px;
+    padding: 5px;
+}
+
+.frase:hover {
+    cursor: pointer;
+    background-color: rgb(203, 84, 230);
+}

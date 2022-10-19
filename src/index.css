@@ -1,0 +1,27 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  font-family: "Raleway", sans-serif;
+  color: #FFF;
+}
+
+body,
+html {
+  min-height: 100vh;
+  height: 100%;
+  background-color: #1C1C1C;
+}
+
+/* BOTAO */
+button {
+  padding: 10px 40px;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: #c08bcf;
+  border-radius: 5px;
+  border: none;
+}
+
+button:hover {
+  background-color: #b053c7;
+}
